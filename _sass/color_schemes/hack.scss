@@ -7,7 +7,7 @@ $body-font-family: "SFMono-Regular", Menlo, Consolas, Monospace, system-ui, -app
   Roboto, "Helvetica Neue", Arial, sans-serif !default;
 $base-button-color: #00ff06 !default;
 $search-background-color: #5b5b5b;
-$feedback-color: darken($sidebar-color, 3%) !default;
+$feedback-color: lighten($sidebar-color, 3%) !default;
 $code-background-color: #000000;
 $border-color: #5b5b5b;
 
