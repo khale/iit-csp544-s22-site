@@ -1,10 +1,10 @@
 ---
 layout: home
-title: CS 492
+title: CSP 544
 nav_exclude: true
 seo:
   type: Course
-  name: Introduction to CS Research
+  name: System and Network Security
 ---
 
 # {{ site.tagline }}
@@ -19,7 +19,7 @@ seo:
 
 ## Welcome!
 
-This is the webpage for CS 492: Introduction to CS Research at
+This is the webpage for CSP 544: System and Network Security at 
 [IIT](https://iit.edu).  This course is for undergraduates in Computer Science
 who have enrolled in the [Computer Science Honors Research
 Specialization](http://bulletin.iit.edu/undergraduate/colleges/computing/computer-science/bs/#specializationstext).
