@@ -20,23 +20,24 @@ seo:
 ## Welcome!
 
 This is the webpage for CSP 544: System and Network Security at 
-[IIT](https://iit.edu).  This course is for undergraduates in Computer Science
-who have enrolled in the [Computer Science Honors Research
-Specialization](http://bulletin.iit.edu/undergraduate/colleges/computing/computer-science/bs/#specializationstext).
-Briefly, the goal of this course is to introduce undergraduates in their first
-or second years to the research process and to research going on in our
-[department](https://www.iit.edu/computer-science). See more in the
-[syllabus](syllabus.md).
+[IIT](https://iit.edu).  
 
-## Useful Books and Resources 
-- [Student Research at IIT](https://www.iit.edu/research/student-research)
-- Matt Migh's [blog](https://matt.might.net/articles/) has several great articles on grad school
-- Richard Hamming: You and Your Research ([paper](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html), [talk](https://www.youtube.com/watch?v=a1zDuOPkMSw)). You can find a more detailed treatment in [this book](https://www.amazon.com/Art-Doing-Science-Engineering-Learning/dp/1732265178).
-- David Anderson's [reflections](https://da-data.blogspot.com/2013/01/on-phd.html) on doing a PhD in CS
-- Mor Harchol-Balter's [advice](http://www.cs.cmu.edu/~harchol/gradschooltalk.pdf) on applying to PhD programs
-- For those interested in systems research: watch Remzi Arpaci-Dusseau's great [keynote](https://www.usenix.org/conference/atc19/presentation/keynote) from USENIX ATC'19
-- Duane Bailey's [Letter to Research Students](https://www.cs.williams.edu/~bailey/p/research.pdf)
-- [How to be a Good Graduate Student](http://www.jdl.ac.cn/how_to_research/doc/How%20to%20be%20a%20good%20graduate%20student.pdf) from Marie desJardins
-- [Courage in technology](https://cseweb.ucsd.edu/~wgg/smli_ps-1.pdf)
-- [The Morning Paper](https://blog.acolyer.org/)
+## Books
+
+### Required
+See [here](https://www.amazon.com/dp/1733003932/ref=cm_sw_em_r_mt_dp_U_BRJfEb9D10NPV). 
+
+### Other Useful Books
+- [Security Engineering](https://www.cl.cam.ac.uk/~rja14/book.html) by Ross Anderson
+- [Hand-On Ethical Hacking and Network Defense](https://www.amazon.com/dp/1285454618/ref=cm_sw_em_r_mt_dp_U_9WJfEbPZYT9WP) by Simpson and Antill
+- [The Hacker Playbook 2](https://www.amazon.com/dp/B01072WJZE?ref_=cm_sw_r_kb_dp_r.1fEbY7PCXQJ&tag=kpembed-20&linkCode=kpe) by Peter Kim
+- [Hacking: The Art of Exploitation](https://www.amazon.com/dp/B004OEJN3I?ref_=cm_sw_r_kb_dp_1.1fEb4R99QTB&tag=kpembed-20&linkCode=kpe) by Jon Erickson
+- [RTFM](https://www.amazon.com/Rtfm-Red-Team-Field-Manual/dp/1494295504/ref=sr_1_1?keywords=red+team+field+manual&qid=1578590253&sr=8-1) by Ben Clark
+
+
+## Development Environment
+
+## Tools
+
+## Other Useful Links and Resources
 
