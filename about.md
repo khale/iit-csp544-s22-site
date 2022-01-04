@@ -18,51 +18,149 @@ description: >-
 
 ## Course Overview
 
-This course introduces undergraduates in their first or second year to CS
-research going on in the department, and CS research in general. We will cover
-several topics including the CS research process, graduate school, careers in
-research, and so on. Most class sessions will be dedicated to introducing
-students to the research conducted by a particular faculty member's research
-group. 
+We increasingly live in a digitally-connected world. More of our personal
+systems, national infrastructures, automobiles, and smart devices are becoming
+internet-connected, so the importance of secure systems is more critical than
+ever. Unfortunately, tracking the trend for internet-connected systems is an
+increasing prevalence of malicious actors and criminals intent on breaking,
+subverting, and otherwise sabotaging important systems. Billions of dollars are
+lost and thousands of lives are affected by such cybercrime, and there is
+a dearth of trained talent to offset these trends. We must endeavor to train
+ethical hackers with strong cyber-security techniques, who understand the
+toolkits and trades employed by cybercriminals, and imbue them with an ethos of
+using their knowledge for good. This course will be a programming-based,
+learn-by-doing-oriented course focused on applying foundational principles in
+security to real systems and networks . You will implement several real attacks
+and take advantage of several recreated vulnerable systems in order to
+understand the modern landscape of network and systems security. Other than
+implementing our own attacks, we will also be looking at various case studies
+of attacks and defense strategies, including known exploit proofs-of-concept,
+published papers, and documents from security agencies and cyber-security
+research firms.
 
-## Course Outcomes
+## Prerequisites
+1. CS458 (Information Security)
+2. A reasonably strong CS background in security or networking/systems
+3. We assume that students are familiar with some programming languages, such as C, C++, Java, or Python.
 
-- Understand why you should pursue research and an honors thesis
-- Understand research areas within CS
-- Understand topics researched by faculty in the CS department at IIT
-- Have a high-level view of the research process
-- Gain a basic understanding of how to conduct a literature review
-- Gain a basic understanding of how to read a research paper
-- Be introduced to several research-related career paths 
-- Get an idea of how the graduate school application process works
-- Get an idea of how research in graduate school works
+Exceptions to the above can be made, just come talk to us.
 
-## Lectures
-There will be a few (short) lectures in this course given by me, but most of
-our time will be spent listenting to guest lecturers, usually faculty in the CS
-department talking about their own current research efforts. It is critical
-that you attend class sessions. 
+## Course Goals
 
-## Textbooks
-There is no required textbook for this course, but see the recommended reading on the main page. 
+- Explore a range of existing problems and tensions in modern system and network security
+- Gain a deep understanding of issues, concepts, threats, operational challenges as well as solutions in securing systems and networks
+- Learn real-world security principles through hands-on practice and tools to assess, defend, and investigate systems and networks
 
-## Grading
+## Details
+The course is organized into multiple cycles and each cycle will focus on one
+topic in system and network security from theory to practice. We will first
+study the theory behind various attack vectors as well as countermeasures, and
+then gain deep insights through hands-on construction and experimentation with
+real-world implementations. Ideally, we will participate in a capture-the-flag
+competition at the end of the course. Topics include but are not limited to
+malware design (e.g., rootkit), web security (e.g., sql injection attacks,
+cross-site scripting attacks), OS and software security (e.g., shared library,
+reverse engineering, buffer overflow attacks, vulnerability scanning), network
+security (e.g., packet sniffing and spoofing, firewalls, protocol-specific
+attacks) and cryptography.
 
-This is a pass/fail course. 
-Your grade will be computed according to these criteria:
-- 25% Attendance
-- 25% Participation
-- 50% Assignments
+- Software Security (8 hours)
+- Web Security (6 hours)
+- Network Security (11 hours)
+- Crypto (4 hours)
+- System Security (11 hours)
 
-## Assignments
+## Required Textbook
+[Computer and Internet Security](https://www.amazon.com/dp/1733003932/ref=cm_sw_em_r_mt_dp_U_BRJfEb9D10NPV) by Wenliang Du
 
-There will be two assignments for the course. Both will be 2-page papers. I will make announcements about their due dates when appropriate. 
+## Readings For many lectures, we will be posting required readings on the
+course webpage, from various sources. Be sure to read them! If a reading is
+marked as required, the reading content is fair game for exams. Any readings
+I post that are required will be freely available either from the web or from
+me.
 
-### Late work policy
-Each day an assignment is late, it will incur a 10% penalty. If an assignment is more than 5 days late, it will not be accepted, and you will receive a zero.
+## Projects
+
+By far the most important part of this course is the labs. You will learn by
+doing. Thus, they will comprise the lion's share of your grade. Unless
+otherwise noted you will be working individually on projects. You will be
+graded on your lab reports that you submit when you are finished.
+
+### Submitting Work
+Unless otherwise noted, you will be submitting lab reports when your lab work
+is done. You will submit them on Blackboard by the due date listed on the
+course webpage.
+
+### Late Work
+For all projects, you can submit up to two days late with penalties. Each day
+you will be docked 10%. So if I have a perfect project, submitting two days
+late will give me 80%. After two days, submissions will not be accepted, and
+you will receive a zero.
+
+If you have an emergency or are ill, it may be possible to excuse you from
+a project or to get you an extension, but contact me (or have a friend or
+family member contact me) as soon as you can. Please don't wait until you get
+well / get back into town / start worrying about your Final Grade. Overly
+delayed requests may be denied. Requests made after classes end will be denied.
+
+### Regrades
+If you think a test or project has been misgraded, then if the TA graded it,
+discuss it with the TA first. If you still think it's been misgraded, discuss
+it with me. Regrade requests must be specific: Don't just ask us to regrade an
+entire problem or assignment. Also, you must include your justification for
+a higher grade: Don't just say you think you deserve more points. Regrade
+requests should be timely, else they may be denied. In particular, regrade
+requests made after classes end will be denied.
 
 ## Exams
-There will be no exams for this course.
+There will be only a final, comprehensive exam during the last week of classes (not during finals week). There will be no midterm.
+
+### One Page of Notes
+For the final exam, you can bring one 8.5" x 11" or A4 page of notes (both
+sides; doesn't matter if it's hand-written or printed, etc.) No other notes, no
+sharing notes, no books; no phones, no calculators or other aids or devices.
+
+### Makeup Exams
+If you can't make it to an exam because you're sick or have an emergency, it
+may be possible to get you a makeup exam, but contact me (or have a friend or
+family member contact the instructor) as soon as you can. Overly delayed
+requests may be denied, so don't wait until you get well / get back into town
+/ start worrying about your Final Grade. Requests made after classes end will
+be denied (so be on top of things, since the only exam for this course is
+during the final week!)
+
+Make-up exams are not a guaranteed right, especially if you ask after the exam.
+Barring some urgent reason, you must take tests at the scheduled time (Getting
+a cheaper airline ticket is not considered to be an urgent reason).
+
+### No Re-taking Exams
+If during the test, you feel too ill to finish it, stop and come up and talk to
+me so we can work on rescheduling it — don't turn in the test and then come to
+me later. Similarly, don't turn in the Final if you want a grade of Incomplete.
+
+
+## End-of-Semester Score
+The grade break-down for the semester is as follows:
+
+- 70%: Labs and reports
+- 20%: Participation
+- 10%: Final Exam
+
+All values are scaled to 100 before taking the final sum. 
+
+For internet and India sessions, the grade break-down is:
+
+- 80%: Labs and reports
+- 20%: Final Exam
+
+
+## Letter Grade Cutoffs
+- A: 90-100
+- B: 80-89
+- C: 70-79
+- D: 60-69
+- E: 0-59
+
 
 ## Academic Integrity
 
