@@ -22,9 +22,9 @@ schedule:
   - name: Monday
     events:
       - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: SB 210
+        start: 3:15 PM
+        end: 4:30 PM
+        location: SB 113 (Zoom)
       - name: Office Hours
         start: 12:30 PM
         end: 2:00 PM
@@ -36,6 +36,11 @@ schedule:
         end: 2:00 PM
         location: SB 229C
   - name: Wednesday
+    events:
+      - name: Lecture
+        start: 3:15 PM
+        end: 4:30 PM
+        location: SB 113 (Zoom)
   - name: Thursday
   - name: Friday
 ---
