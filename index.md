@@ -22,8 +22,6 @@ seo:
 This is the webpage for CSP 544: System and Network Security at 
 [IIT](https://iit.edu).  
 
-![]({{scroll.jpg}})
-
 ## Books
 
 ### Required
