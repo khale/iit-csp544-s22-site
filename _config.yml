@@ -41,9 +41,6 @@ collections:
   modules:
   schedules:
   announcements:
-  labs:
-    permalink: '/:path/'
-    output: true
 
 # Default layouts for each collection type
 
@@ -69,16 +66,7 @@ defaults:
       type: announcements
     values:
       layout: announcement
-  - scope:
-      path: ''
-      type: labs
-    values:
-      layout: page
 
-just_the_docs:
-  collections:
-    labs: 
-      name: Labs
 
 
 compress_html:
