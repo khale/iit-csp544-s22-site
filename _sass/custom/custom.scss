@@ -33,14 +33,14 @@ a abbr[title] {
 }
 
 .nav-list-link.active {
-    background-image: rgba(0,0,0,0);
+    background-image: none !important;t
     background-color: rgba(0, 102, 0, 0.2);
     border-radius: 2px;
     border: 1px solid green;
 }
 .nav-list-link:active {
     background-color: rgba(0, 102, 0, 0.2);
-    background-image: rgba(0, 0, 0, 0);
+    background-image: none !important;
     border: 1px solid green;
     border-radius: 2px;
 }
@@ -48,13 +48,13 @@ a abbr[title] {
 .nav-list-link:hover {
     border: 1px solid green;
     background-color: rgba(0, 102, 0, 0.2);
-    background-image: none;
+    background-image: none !important;
 }
 .nav-list-item:active {
     border: 1px solid green;
     background-color: rgba(0, 102, 0, 0.2);
     border-radius: 2px;
-    background-image: none;
+    background-image: none !important;
 }
 
 .nav-list-item:hover {
