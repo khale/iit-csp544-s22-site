@@ -1,11 +1,12 @@
 ---
-title: Lab 1: SetUID and Environment Variables
+title: SetUID and Environment Variables
 parent: Software Security
+has_children: false
 nav_order: 1
 summary: SEED 1 and 2
 ---
 
-# {{ page.title }}
+# Lab 1: SetUID and Environment Variables
 
 ## Lab Overview
 

@@ -2,6 +2,7 @@
 title: Software Security
 nav_order: 1
 has_children: true
+parent: Labs
 has_toc: false
 summary: Software Security Labs
 ---
