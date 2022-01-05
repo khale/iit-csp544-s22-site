@@ -33,14 +33,14 @@ a abbr[title] {
 }
 
 .nav-list-link.active {
-    background-image: none;
+    background-image: rgba(0,0,0,0);
     background-color: rgba(0, 102, 0, 0.2);
     border-radius: 2px;
     border: 1px solid green;
 }
 .nav-list-link:active {
     background-color: rgba(0, 102, 0, 0.2);
-    background-image: none;
+    background-image: rgba(0, 0, 0, 0);
     border: 1px solid green;
     border-radius: 2px;
 }
