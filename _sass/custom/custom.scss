@@ -32,7 +32,13 @@ a abbr[title] {
     height: 400%;
 }
 
-.nav-list-link:hover {
+.nav-list-item:active {
+    border: 1px solid green;
+    background-color: rgba(0, 102, 0, 0.2);
+    border-radius: 2px;
+}
+
+.nav-list-item:hover {
     border: 1px solid green;
     background-color: rgba(0, 102, 0, 0.2);
     border-radius: 2px;
