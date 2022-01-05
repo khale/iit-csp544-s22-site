@@ -74,6 +74,11 @@ defaults:
     values:
       layout: page
 
+just_the_docs:
+  collections:
+    labs:
+      name: Labs
+
 compress_html:
   clippings: all
   comments: all
