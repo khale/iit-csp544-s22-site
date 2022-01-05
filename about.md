@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Syllabus
-description: >-
-    Course policies and information.
+description: Course policies and information.
 ---
 
 # Course Syllabus
