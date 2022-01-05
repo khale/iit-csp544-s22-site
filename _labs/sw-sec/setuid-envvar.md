@@ -2,6 +2,7 @@
 title: Lab 1: SetUID and Environment Variables
 parent: Software Security
 nav_order: 1
+nav_exclude: false
 summary: SEED 1 and 2
 ---
 
