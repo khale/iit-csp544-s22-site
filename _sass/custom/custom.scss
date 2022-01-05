@@ -12,9 +12,23 @@ a abbr[title] {
   border-bottom: none;
 }
 
-body {
+.main-content {
     font: 1.2rem Inconsolata, monospace;
+    box-shadow: inset 0px 0px 15px rgba(255, 255, 255, 0.333);
+    border-radius: 20px;
+    background-image: linear-gradient(
+        to bottom,
+        rgba(255,255,255,0),
+        rgba(255,255,255,0) 50%,
+        rgba(0,0,0,.2) 70%,
+        rgba(0,0,0,.6)
+    );
+    background-size: 80% .3rem;
     text-shadow: 0 0 6px #C8C8C8;
+}
+
+.site-logo {
+    height: 400%;
 }
 
 
