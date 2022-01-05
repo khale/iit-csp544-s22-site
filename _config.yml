@@ -23,10 +23,12 @@ exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 logo: "/assets/images/scroll.jpg"
 
 # Theme settings
-remote_theme: pmarsceill/just-the-docs@v0.3.3
+
+# remote_theme: pmarsceill/just-the-docs@v0.3.3
+remote_theme: just-the-docs@pages-and-collections
 color_scheme: hack
 search_enabled: true
-heading_anchors: false
+heading_anchors: true
 permalink: pretty
 aux_links:
   Kyle C. Hale:
@@ -74,6 +76,12 @@ defaults:
     values:
       layout: page
 
+just_the_docs:
+  collections:
+    labs: 
+      name: Labs
+
+
 
 compress_html:
   clippings: all
@@ -85,3 +93,4 @@ compress_html:
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
