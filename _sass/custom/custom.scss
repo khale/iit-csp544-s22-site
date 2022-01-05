@@ -14,6 +14,7 @@ a abbr[title] {
 
 .main-content {
     font: 1.2rem Inconsolata, monospace;
+    padding: 60px 80px 80px 60px;
     box-shadow: inset 0px 0px 15px rgba(255, 255, 255, 0.333);
     border-radius: 20px;
     background-image: linear-gradient(
@@ -31,6 +32,12 @@ a abbr[title] {
     height: 400%;
 }
 
+
+.module {
+    border: 1px solid green;
+    background-color: rgba*(0, 102, 0, 0.2);
+    border-radius: 5px;
+}
 
 abbr[title] {
   text-decoration: none;
