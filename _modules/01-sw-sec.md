@@ -4,12 +4,12 @@ title: Software Security
 
 Day 1
 : [Intro to Software Security and Course Logistics](#)
-  : [1.1](#)
-: **Lab**{: .label .label-yellow } **SEED Lab Setup**
+  : [Seed Ch. 1](#)
+: **Lab**{: .label .label-yellow } [**SEED Lab Setup**](https://seedsecuritylabs.org/lab_env.html)
 
 Day 2
 : [Privilege](#)
-  : [1.2](#)
-: **Lab**{: .label .label-yellow } **SetUID and Env. Vars**
+  : [Seed Ch. 2](#)
+: **Lab**{: .label .label-yellow } [**SetUID and Env. Vars**]({{/path/to/thing}})
 : Your Daily Phrack
 
