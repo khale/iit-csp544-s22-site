@@ -32,6 +32,9 @@ a abbr[title] {
     height: 400%;
 }
 
+.nav-list-link.active {
+    background-image: none;
+}
 .nav-list-link:active {
     background-image: none;
 }
