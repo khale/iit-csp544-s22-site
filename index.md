@@ -22,6 +22,9 @@ seo:
 This is the webpage for CSP 544: System and Network Security at 
 [IIT](https://iit.edu).  
 
+## Communication
+We will be using [Discord](https://discord.gg/VBSynmB3) for course communication.
+
 ## Books
 
 ### Required
