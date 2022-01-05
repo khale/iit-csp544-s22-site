@@ -67,8 +67,6 @@ defaults:
     values:
       layout: announcement
 
-
-
 compress_html:
   clippings: all
   comments: all
@@ -79,4 +77,3 @@ compress_html:
 
 plugins:
   - jekyll-seo-tag
-  - jekyll-sitemap
