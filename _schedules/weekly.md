@@ -26,14 +26,9 @@ schedule:
         end: 4:30 PM
         location: SB 113 (Zoom)
   - name: Tuesday
-    events:
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: SB 229C
   - name: Wednesday
     events:
-      - name: Hale Office Hours
+      - name: Office Hours (Hale)
         start: 12:00 PM
         end: 1:50 PM
         location: SB 229C
