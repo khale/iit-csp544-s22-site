@@ -1,9 +1,7 @@
 ---
 title: SetUID and Environment Variables
 parent: Software Security
-has_children: false
 nav_order: 1
-nav_exclude: true
 summary: SEED 1 and 2
 ---
 
