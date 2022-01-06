@@ -8,7 +8,7 @@ Day 1
 : **Lab**{: .label .label-yellow } [**SEED Lab Setup**](https://seedsecuritylabs.org/lab_env.html)
 
 Day 2
-: [Privilege](#)
+: [Exploiting Access Control and Software Environments](#)
   : [Seed Ch. 2](#)
 : **Lab**{: .label .label-yellow } [**SetUID and Env. Vars**]({{ site.baseurl }}{% link labs/sw-sec/setuid-envvar.md %})
 : Your Daily Phrack: [The Underground Scene](http://phrack.org/issues/64/4.html)
