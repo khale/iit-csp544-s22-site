@@ -69,6 +69,10 @@ attacks) and cryptography.
 - Crypto (4 hours)
 - System Security (11 hours)
 
+## Lecture Sessions
+For the first two weeks of the semester we will be on [Zoom](https://iit-edu.zoom.us/j/86373049435?pwd=aEV5TzlndXdlSlhxQ3dRWGhpQzM3UT09). 
+After that, we'll meet in SB 113 (unless things change). 
+
 ## Required Textbook
 [Computer and Internet Security](https://www.amazon.com/dp/1733003932/ref=cm_sw_em_r_mt_dp_U_BRJfEb9D10NPV) by Wenliang Du
 

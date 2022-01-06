@@ -20,7 +20,8 @@ seo:
 ## Welcome!
 
 This is the webpage for CSP 544: System and Network Security at 
-[IIT](https://iit.edu).  
+[IIT](https://iit.edu).  We are [online](https://iit-edu.zoom.us/j/86373049435?pwd=aEV5TzlndXdlSlhxQ3dRWGhpQzM3UT09) 
+for the first two weeks of the semester. After that, we will meet in SB 113. 
 
 ## Communication
 We will be using [Discord](https://discord.gg/VBSynmB3) for course communication.
