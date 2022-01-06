@@ -10,6 +10,6 @@ Day 1
 Day 2
 : [Privilege](#)
   : [Seed Ch. 2](#)
-: **Lab**{: .label .label-yellow } [**SetUID and Env. Vars**]({{/labs/sw-sec/setuid-envvar.md}})
+: **Lab**{: .label .label-yellow } [**SetUID and Env. Vars**]({{ site.baseurl }}{% link labs/sw-sec/setuid-envvar.md %})
 : Your Daily Phrack: [The Underground Scene](http://phrack.org/issues/64/4.html)
 
