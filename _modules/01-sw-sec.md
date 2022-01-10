@@ -5,7 +5,7 @@ title: Software Security
 Day 1
 : [Intro to Software Security and Course Logistics](#)
   : [Seed Chs. 1 and 2](#)
-: **Lab**{: .label .label-yellow } [**SEED Lab Setup**](https://seedsecuritylabs.org/lab_env.html)
+: **Lab**{: .label .label-yellow } [**SEED Lab Setup**](https://seedsecuritylabs.org/labsetup.html)
 
 Day 2
 : [Exploiting Access Control and Software Environments](#)
