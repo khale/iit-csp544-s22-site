@@ -24,7 +24,7 @@ This is the webpage for CSP 544: System and Network Security at
 for the first two weeks of the semester. After that, we will meet in SB 113. 
 
 ## Communication
-We will be using [Discord](https://discord.gg/VBSynmB3) for course communication.
+We will be using Discord for course communication.
 
 ## Books
 
