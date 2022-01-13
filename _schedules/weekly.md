@@ -26,6 +26,11 @@ schedule:
         end: 4:30 PM
         location: SB 113 (Zoom)
   - name: Tuesday
+    events:
+      - name: Office Hours (TA - Wang)
+        start: 2:00 PM
+        end: 4:00 PM
+        location: TBD
   - name: Wednesday
     events:
       - name: Office Hours (Hale)
