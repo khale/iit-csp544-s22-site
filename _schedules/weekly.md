@@ -30,13 +30,13 @@ schedule:
       - name: Office Hours (TA - Wang)
         start: 2:00 PM
         end: 4:00 PM
-        location: TBD
+        location: SB019a (Zoom)
   - name: Wednesday
     events:
       - name: Office Hours (Hale)
         start: 12:00 PM
         end: 1:50 PM
-        location: SB 229C
+        location: SB 229C (Zoom)
       - name: Lecture
         start: 3:15 PM
         end: 4:30 PM
