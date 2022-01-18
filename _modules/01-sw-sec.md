@@ -8,7 +8,16 @@ Day 1
 : **Lab**{: .label .label-yellow } [**SEED Lab Setup**](https://seedsecuritylabs.org/labsetup.html)
 
 Day 2
-: [Exploiting Access Control and Software Environments](#)
+: Exploiting Access Control and Software Environments
 : **Lab**{: .label .label-yellow } [**SetUID and Env. Vars**]({{ site.baseurl }}{% link labs/sw-sec/setuid-envvar.md %})
 : Your Daily Phrack: [The Underground Scene](http://phrack.org/issues/64/4.html)
+
+Day 3
+: Shellcode
+: **Lab**{: .label .label-yellow } [**Shellcode**]({{ site.baseurl }}{% link labs/sw-sec/shellcode.md %})
+: Required reading: [Smashing the stack](https://github.com/rootkiter/phrack/blob/master/phrack49/14.txt)
+: Your Daily Phrack: [UNIX for the moderate](http://phrack.org/issues/18/6.html)
+
+Day 4 
+: Stack Smashing
 
