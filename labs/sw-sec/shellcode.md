@@ -17,14 +17,9 @@ You can find the SEED lab description [here](https://seedsecuritylabs.org/Labs_2
 ## Handin
 Please write your lab report according to the description. Upload your answers as a PDF to blackboard. 
 
-## Resources
-- This [video](https://www.youtube.com/watch?v=tZblgb5LYmk) from the SEED author may help
-
 ## Prerequisite Reading
 - SEED Book Chapter 4.7
 
 ## Acknowledgements 
 Significant content borrowed from [Wenliang Du](https://web.ecs.syr.edu/~wedu/)
-
-
 
