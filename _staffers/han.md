@@ -1,6 +1,6 @@
 ---
 name: Han Wang
-role: TA
+role: Teaching Assistant
 email: hwang185@hawk.iit.edu
 website: ""
 photo: ""
