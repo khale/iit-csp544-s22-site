@@ -30,7 +30,7 @@ Day 5 (1/26)
 : Your Daily Phrack: [Non-terminating adjacent memory spaces](http://phrack.org/issues/56/14.html#article)
 
 Day 6 (1/31)
-: Return-oriented Programming
+: [Return-oriented Programming]({{ site.baseurl }}{% link assets/slides/rop.pdf %})
   : Seed Ch. 5
 : **Lab**{: .label .label-yellow } [**ROP**]({{ site.baseurl }}{% link labs/sw-sec/rop.md %})
 : Your Daily Phrack: [Advanced return-to-libc](http://phrack.org/issues/58/4.html)
