@@ -34,3 +34,17 @@ Day 6 (1/31)
   : Seed Ch. 5
 : **Lab**{: .label .label-yellow } [**ROP**]({{ site.baseurl }}{% link labs/sw-sec/rop.md %})
 : Your Daily Phrack: [Advanced return-to-libc](http://phrack.org/issues/58/4.html)
+
+Day 7 (2/2)
+: ROP Lab Work
+: Your Daily Phrack: [Bypassing StackGuard](http://phrack.org/issues/56/14.html#article)
+
+Day 8 (2/6)
+: [`printf` for fun and for profit]({{ site.baseurl}}{% link assets/slides/printf.pdf %})
+  : Seed Ch. 6
+: **Lab**{: .label .label-yellow } [**Format String Vulnerability Lab**]({{ site.baseurl }}{% link labs/sw-sec/printf.md %})
+: Your Daily Phrack: [Exploiting JIT Engines](http://www.phrack.org/papers/jit_exploitation.html)
+
+Day 9 (2/9)
+: Format String Lab Work
+: Your Daily Phrack: [Bypassing ASLR](http://phrack.org/issues/59/9.html)
