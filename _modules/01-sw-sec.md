@@ -48,3 +48,14 @@ Day 8 (2/6)
 Day 9 (2/9)
 : Format String Lab Work
 : Your Daily Phrack: [Bypassing ASLR](http://phrack.org/issues/59/9.html)
+
+Day 12 (2/14)
+: Shellshock 
+  : Seed Ch. 3
+: **Lab**{: .label .label-yellow } [**Shellshock Lab**]({{ site.baseurl }}{% link labs/sw-sec/shellshock.md %})
+: Your Daily Phrack: [Unix Nasties](http://www.phrack.org/issues/32/5.html#article)
+
+Day 13 (2/16)
+: Fuzzing 
+: Your Daily Phrack: [Dynamic Program Analysis](http://phrack.org/issues/67/10.html)
+
