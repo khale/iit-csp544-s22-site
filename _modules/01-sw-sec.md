@@ -50,7 +50,7 @@ Day 9 (2/9)
 : Your Daily Phrack: [Bypassing ASLR](http://phrack.org/issues/59/9.html)
 
 Day 12 (2/14)
-: Shellshock 
+: [Shellshock]({{ site.baseurl }}{% link assets/slides/shellshock.pdf %})
   : Seed Ch. 3
 : **Lab**{: .label .label-yellow } [**Shellshock Lab**]({{ site.baseurl }}{% link labs/sw-sec/shellshock.md %})
 : Your Daily Phrack: [Unix Nasties](http://www.phrack.org/issues/32/5.html#article)
