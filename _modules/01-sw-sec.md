@@ -57,5 +57,6 @@ Day 12 (2/14)
 
 Day 13 (2/16)
 : Fuzzing 
+: **Optional Lab**{: .label .label-orange } [**Fuzzing Lab**}({{ site.baseurl }}{% link labs/sw-sec/fuzzing.md %})
 : Your Daily Phrack: [Dynamic Program Analysis](http://phrack.org/issues/67/10.html)
 
