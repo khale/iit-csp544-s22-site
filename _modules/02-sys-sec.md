@@ -2,3 +2,31 @@
 title: System Security
 ---
 
+
+Day 12 (2/21)
+: [ELF Poisoning is Metal]({{ site.baseurl }}{% link assets/slides/rtld-gotplt.pdf %})
+  : [ELF RTLD internals](https://johntortugo.wordpress.com/2012/08/27/understanding-linux-elf-rtld-internals/)
+: **Lab**{:.label .label-yellow} [**Code Injection and Binary Exploitation**]({{ site.baseurl }}{% link labs/sys-sec/elf-poison.md %})
+: Your Daily Phrack: [Shared library call redirection](http://phrack.org/issues/56/7.html)
+
+<!---
+Day 13 (2/23)
+: Exploiting Speculative Execution
+: Your Daily Phrack: [Hijacking Linux Page Faults](http://phrack.org/issues/61/7.html#article)
+
+Day 14 (2/28)
+Kernel Backdoors and Rootkits
+(required lab)
+
+Day 15 (3/2)
+Dropped Drive Attacks 
+(optional lab)
+
+Day 16 (3/7)
+Symmetric Key Encryption
+(required lab)
+
+Day 17 (3/9)
+Password Cracking 
+(optional lab)
+-->
