@@ -7,7 +7,7 @@ summary: Fuzzing
 
 # Lab 7: Fuzzing (optional)
 
-**Due Date: Wednesday 02/23/22 before class**
+**Due Date: Monday 02/28/22 before class**
 
 ## Lab Overview
 This lab will help you to become familiar with using a popular fuzz testing
@@ -41,35 +41,39 @@ Now open up an editor and create the following program, and save it as `test.c`.
 
 ```C
 #include <stdio.h>
-    #include <stdlib.h>
-    #include <ctype.h>
+#include <stdlib.h>
+#include <ctype.h>
 
-    #define CHAR_MAX 255
-    int main (int argc, char ** argv) {
-        char buf[CHAR_MAX] = {0};
-        FILE * fd;
-        char c = 0;
+#define CHAR_MAX 255
+int main (int argc, char ** argv) {
+	char buf[CHAR_MAX] = {0};
+	FILE * fd;
+	int idx;
 
-        if (argc != 2) 
-            return 1;
+	if (argc != 2) 
+		return 1;
 
-        if ((fd = fopen(argv[1], "r")) == NULL)
-            return 1;
+	if ((fd = fopen(argv[1], "r")) == NULL)
+		return 1;
 
-        while ((c = (char)fgetc(fd)) != EOF)
-            buf[c]++;
+	while (fread(buf, 1, 4, fd) == 4) {
+		// we expect one character every 4 bytes, surrounded by nulls
+		idx = *(int*)buf;
+		buf[idx]++;
+	}
 
-        for (int i = 0; i < CHAR_MAX; i++) {
-            if (buf[i] == 0 || !isprint(i))
-                continue;
-            printf("%c: ", i);
-            for (int j = 0; j < buf[i]; j++) 
-                putchar('#');	
-            putchar('\n');
-        }
-        fclose(fd);
-        return 0;
-    }
+	for (int i = 0; i < CHAR_MAX; i++) {
+		if (buf[i] == 0 || !isprint(i))
+			continue;
+		printf("%c: ", i);
+		for (int j = 0; j < buf[i]; j++) 
+			putchar('#');	
+		putchar('\n');
+	}
+	fclose(fd);
+
+	return 0;
+}
 ```
 
 It's pretty easy to see what this program does, and you've probably already
@@ -90,7 +94,7 @@ We now need to provide seed tests for the program. We can make something pretty 
 
 ```bash
 mkdir mytests
-perl -e "print 'A'x511" > mytests/foo
+python3 -c 'import sys; sys.stdout.buffer.write(b"\x62\x00\x00\x00")' > mytests/foo
 mkdir output
 ```
 
