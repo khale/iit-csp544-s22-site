@@ -13,11 +13,12 @@ Day 13 (2/23)
 : [Exploiting Speculative Execution]({{ site.baseurl}}{% link assets/slides/meltdown.pdf %})
 : Your Daily Phrack: [Hijacking Linux Page Faults](http://phrack.org/issues/61/7.html#article)
 
-<!---
 Day 14 (2/28)
-Kernel Backdoors and Rootkits
-(required lab)
+: Kernel Backdoors and Rootkits
+: **Lab**{:.label .label-yellow} [**Backdoor to the Kernel**]({{ site.baseurl }}{% link labs/sys-sec/rootkits.md %})
+: Your Daily Phrack: [Infecting LKMs](http://phrack.org/issues/61/10.html)
 
+<!---
 Day 15 (3/2)
 Dropped Drive Attacks 
 (optional lab)
