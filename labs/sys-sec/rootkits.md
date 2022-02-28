@@ -8,7 +8,7 @@ summary: Rootkits
 # Lab 9: Kernel Rootkits
 
 This lab will introduce you to both kernel module programming and to kernel
-backdoors rootkits. You will take an existing kernel rootkit written by your instructor
+backdoors and rootkits. You will take an existing kernel rootkit written by your instructor
 and extend it.
 
 **Due Date: Monday 03/07/22 before class**
