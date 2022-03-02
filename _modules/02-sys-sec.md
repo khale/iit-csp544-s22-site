@@ -18,11 +18,12 @@ Day 14 (2/28)
 : **Lab**{:.label .label-yellow} [**Backdoor to the Kernel**]({{ site.baseurl }}{% link labs/sys-sec/rootkits.md %})
 : Your Daily Phrack: [Infecting LKMs](http://phrack.org/issues/61/10.html)
 
-<!---
 Day 15 (3/2)
-Dropped Drive Attacks 
-(optional lab)
+: Dropped Drive Attacks 
+: **Lab**{:.label .label-yellow} [**Dropped Drive Attacks**]({{ site.baseurl }}{% link labs/sys-sec/duckies.md %})
+: Your Daily Phrack: [Advances in Kernel Hacking](http://phrack.org/issues/58/6.html)
 
+<!--
 Day 16 (3/7)
 Symmetric Key Encryption
 (required lab)
