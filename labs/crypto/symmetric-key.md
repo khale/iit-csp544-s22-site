@@ -7,7 +7,7 @@ summary: SEED 21
 
 # Lab 11: Symmetric Key Encryption
 
-**Due Date: Monday 03/14/22 before class**
+**Due Date: Friday 03/11/22 11:59PM CST**
 
 ## Lab Overview
 
