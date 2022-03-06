@@ -23,12 +23,3 @@ Day 15 (3/2)
 : **Lab**{:.label .label-yellow} [**Dropped Drive Attacks**]({{ site.baseurl }}{% link labs/sys-sec/duckies.md %})
 : Your Daily Phrack: [Advances in Kernel Hacking](http://phrack.org/issues/58/6.html)
 
-<!--
-Day 16 (3/7)
-Symmetric Key Encryption
-(required lab)
-
-Day 17 (3/9)
-Password Cracking 
-(optional lab)
--->
