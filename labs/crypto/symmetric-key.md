@@ -1,6 +1,6 @@
 ---
 title: Symmetric Key Encryption
-parent: Crypto
+parent: Cryptography
 nav_order: 1
 summary: SEED 21
 ---
