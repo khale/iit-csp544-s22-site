@@ -132,9 +132,12 @@ rootkit. This is your task!
 Some hints:
 - You should be able to use the same `seq_file` technique used for the maps file.
 - Network sockets are also exposed in `/proc`. You will focus on TCP (IPv4). You will thus need to take a look at `/proc/net/tcp`.
-- The proc dirs for `/proc/net` are organized in a red black tree. See [here](https://lwn.net/Articles/184495/) and understand the `init_net` struct from the `net/tcp.h` header and its `proc_net` member field. You will want to use helper functions provided by Linux like `rb_first()`, `rb_last()`, `rb_entry()`, `struct proc_dir_entry` etc.
-- When you override the seq file, you will need to use `struct inet_sock` (which you can derive from the `v` pointer in your seq handler using the `inet_sk` helper function). You will need to extract the port number from the socket structure (see `ntohs()`).
+- You'll want to see the `tcp4_seq_show()` [function](https://elixir.bootlin.com/linux/v4.8/source/net/ipv4/tcp_ipv4.c#L2257).
+- When you override the seq file, you will need to use the `struct inet_sock` [structure](https://elixir.bootlin.com/linux/v4.8/source/include/net/sock.h#L306) (which you can derive from the `v` pointer in your seq handler). You will need to extract the port number from the socket structure (see `ntohs()`).
 
+<!--
+- The proc dirs for `/proc/net` are organized in a red black tree. See [here](https://lwn.net/Articles/184495/) and understand the `init_net` struct from the `net/tcp.h` [header](https://elixir.bootlin.com/linux/v4.8/source/include/net/tcp.h) and its `proc_net` member field. You will want to use [helper functions](https://elixir.bootlin.com/linux/v4.8/source/include/linux/rbtree.h#L69) provided by Linux like `rb_first()`, `rb_last()`, `rb_entry()`, `struct proc_dir_entry` etc.
+--> 
 
 ## Handin
 Please write your lab report according to the description. Please also list the
