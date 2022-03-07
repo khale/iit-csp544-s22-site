@@ -1,13 +1,13 @@
 ---
 title: Symmetric Key Encryption
 parent: Cryptography
-nav_order: 1
+nav_order: 2
 summary: SEED 21
 ---
 
-# Lab 11: Symmetric Key Encryption
+# Lab 12: Symmetric Key Encryption
 
-**Due Date: Friday 03/11/22 11:59PM CST**
+**Due Date: Monday 03/28/22 before class **
 
 ## Lab Overview
 

@@ -20,6 +20,5 @@ Day 14 (2/28)
 
 Day 15 (3/2)
 : Dropped Drive Attacks 
-: **Lab**{:.label .label-yellow} [**Dropped Drive Attacks**]({{ site.baseurl }}{% link labs/sys-sec/duckies.md %})
+: **Lab**{:.label .label-orange} [**Dropped Drive Attacks**]({{ site.baseurl }}{% link labs/sys-sec/duckies.md %})
 : Your Daily Phrack: [Advances in Kernel Hacking](http://phrack.org/issues/58/6.html)
-
