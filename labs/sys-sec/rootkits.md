@@ -11,7 +11,8 @@ This lab will introduce you to both kernel module programming and to kernel
 backdoors and rootkits. You will take an existing kernel rootkit written by your instructor
 and extend it.
 
-**Due Date: Monday 03/07/22 before class**
+~~Due Date: Monday 03/07/22 before class~~
+**Due Date: Friday 03/11/22 11:59PM CST**
 
 ## Lab Description
 This lab will guide you through kernel rootkit construction. More details are
