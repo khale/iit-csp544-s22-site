@@ -152,7 +152,7 @@ as a PDF to blackboard
 
 ## Suggested Reading
 - Intro to [Linux kernel modules](https://tldp.org/HOWTO/Module-HOWTO/x73.html)
-- Linux VFS, proc, and root filesystems [article](Linux VFS, proc, and root filesystems article)
+- Linux VFS, proc, and root filesystems [article](https://harryskon.wordpress.com/2015/03/31/vfs-proc-and-root-filesystems/)
 - Kernel documentation on [seq files](https://www.kernel.org/doc/Documentation/filesystems/seq_file.txt)
 - Another [rootkit example](https://0x00sec.org/t/hiding-with-a-linux-rootkit/4532)
 - [Article](https://medium.com/@PenTest_duck/bind-vs-reverse-vs-encrypted-shells-what-should-you-use-6ead1d947aa9) on bind shells, reverse
