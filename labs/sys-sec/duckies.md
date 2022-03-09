@@ -9,7 +9,8 @@ summary: Social Engineering
 
 This lab will introduce you to dropped drive attacks, and using physical tools to manipulate systems. 
 
-**Due Date: Wednesday: 03/09/22 before class**
+~~Due Date: Wednesday: 03/09/22 before class~~
+**Due Date: Monday: 03/21/22 before class**
 
 ## Lab Overview
 For this lab you will learn how to create a low-cost USB device that, when
